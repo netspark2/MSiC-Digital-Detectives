@@ -1,1 +1,1 @@
-# DigitalDetectivesCourse
+# Digital Detectives Course
