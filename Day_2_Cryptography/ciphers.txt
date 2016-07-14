@@ -1,0 +1,29 @@
+Each message tells the location of a digit of a phone number
+Figure out the phone number and locate the owner company.
+
+Format: Nth digit is X (without spaces)
+
+Helpful sites:
+http://rumkin.com/tools/cipher/
+http://www.asciitohex.com/
+
+Ciphertext #1:
+01110100 01101000 01101001 01110010 01100100 01100100 01101001 01100111 01101001 01110100 01101001 01110011 01110011 01101001 01111000
+
+Ciphertext #2:
+USZSGFEHNINFNULGS
+
+Ciphertext #3:
+Zmlyc3RkaWdpdGlzdHdv
+
+Ciphertext #4:
+..-. --- ..- .-. - .... -.. .. --. .. - .. ... ..-. --- ..- .-.
+
+Ciphertext #5:
+NZXJIYYDBDODNOCMZZ
+
+Ciphertext #6:
+AABABABAAAAABABBAABBAABBBAAABBABAAAAABBAABAAABAABBABAAABAABABAABAABAAABABBB
+
+Ciphertext #7:
+HRCGSWRTRGRHAVIL
