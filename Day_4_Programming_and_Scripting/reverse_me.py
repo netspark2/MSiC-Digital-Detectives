@@ -9,7 +9,7 @@ def check_password(password):
     return "Invalid password"
 
 while True:
-    password = raw_input("Please enter your password: ")
+    password = input("Please enter your password: ")
     result = check_password(password)
     print result
     print
